@@ -8,3 +8,5 @@ tags:
   - enumerable
   - iteration
 resources: 4
+
+parent_template: git@github.com:learn-co-curriculum/my-each.git
